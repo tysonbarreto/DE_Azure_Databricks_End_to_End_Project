@@ -1,0 +1,9 @@
+{
+	"name": "datafactorysaete",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "32929bfe-e081-48f4-8c7d-275a8f702aa2",
+		"tenantId": "f372418b-5425-476c-97bb-9cd7a034594c"
+	}
+}
