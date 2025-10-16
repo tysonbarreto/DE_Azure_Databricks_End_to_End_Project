@@ -24,21 +24,6 @@ This pipeline consists of two integrated components:
 
 ---
 
-## 🗂️ Folder Structure
-
-```
-project-root/
-├── adf/
-│   └── cdc_pipeline.json         # ADF pipeline definition with CDC logic
-│   └── logic_app_alerts.json     # Logic App for failure notifications
-├── databricks/
-│   └── lakeflow_ingestion.py     # Declarative streaming with AutoLoader
-│   └── jinja_templates/          # Configurable templates for pipeline logic
-│   └── checkpoint_config.json    # Checkpointing and idempotency setup
-```
-
----
-
 ## 🚀 Key Features
 
 - ✅ Incremental ETL with CDC  
